@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/bluesally/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "BlueSally",
+    "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
+    "icon": "https://github.com/mchdistro/bluesally/raw/main/server-icon.png",
+    "address": "bluesally.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "config/*.*", "journeymap/config/6.0/*.*"]
+    }
+  ]
+}
