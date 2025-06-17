@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "io.github.kosmx.emotes:emotecraft:2.5.7@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259758,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v2-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.7.jar",
+            "MD5": "c494ffe6670005391b7b4149a6fc890a"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.7.4@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -353,6 +363,16 @@
             "size": 192609,
             "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v2-1.21.4/fabricmods/required/veinminer-client-2.4.2.jar",
             "MD5": "29c018006df59642ccfba148e07ba361"
+          }
+        },
+        {
+          "id": "com.goby56:wakes:0.4.2+1.21.4@jar",
+          "name": "Wakes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 268577,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v2-1.21.4/fabricmods/required/wakes-0.4.2+1.21.4.jar",
+            "MD5": "eec865ede580b4185f9d6759baaac9dd"
           }
         },
         {
