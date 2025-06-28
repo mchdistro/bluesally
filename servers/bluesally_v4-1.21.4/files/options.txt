@@ -51,8 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/BetterHangulFont.zip"]
+incompatibleResourcePacks:["koreanpatch"]
 lastServer:
 lang:ko_kr
 chatVisibility:0
