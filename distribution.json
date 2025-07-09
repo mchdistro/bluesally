@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "com.ezzenix:chatanimation:1.0.6@jar",
+          "name": "ChatAnimation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 553941,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/chatanimation-1.0.6.jar",
+            "MD5": "2f2f27d257421c40ef46fd598917e5aa"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:17.0.144@jar",
           "name": "Cloth Config v17",
           "type": "FabricMod",
@@ -146,6 +156,26 @@
           }
         },
         {
+          "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1001061,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
+            "MD5": "cb5480ac95db653d5376ec1b41797b56"
+          }
+        },
+        {
+          "id": "com.hypherionmc:craterlib:2.1.5@jar",
+          "name": "CraterLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2012236,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/CraterLib-Fabric-1.21.3-2.1.5.jar",
+            "MD5": "014c1ee6e426f73fab3c4bebdd3f99ac"
+          }
+        },
+        {
           "id": "generated.fabricmod:cubes-without-borders:3.0.0+mc1.21.3@jar",
           "name": "Cubes Without Borders",
           "type": "FabricMod",
@@ -153,6 +183,16 @@
             "size": 80793,
             "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
             "MD5": "4278e7e73cb1337e3a198f1c5b921887"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.9.5@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 191899,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
+            "MD5": "a018fcc8b46768ef5631e4af2a9b19a5"
           }
         },
         {
@@ -193,6 +233,16 @@
             "size": 7163558,
             "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
             "MD5": "3c186cee540e7f21d8327bed71dd9d6b"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:1.17.0@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 170592,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/fallingleaves-1.17.0+1.21.4.jar",
+            "MD5": "2170762b11f1b0b4e9cc596eb9aba413"
           }
         },
         {
@@ -316,13 +366,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:silk-all:1.11.0@jar",
-          "name": "Silk (All modules)",
+          "id": "com.hypherionmc.simplerpc.loaders:simplerpc:4.0.4@jar",
+          "name": "Simple RPC",
           "type": "FabricMod",
           "artifact": {
-            "size": 879030,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/silk-all-1.11.0.jar",
-            "MD5": "b5a986a658fff11bb4f79ebe37f50237"
+            "size": 713920,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/SimpleRPC-4.0.4.jar",
+            "MD5": "ec1d2917e5ed44b7467e422d1b2506d2"
           }
         },
         {
@@ -356,13 +406,13 @@
           }
         },
         {
-          "id": "de.miraculixx.veinminerClient:veinminer-client:2.4.2@jar",
-          "name": "Veinminer Client",
+          "id": "com.thegameratort:titlefixer:1.1+1.21.2@jar",
+          "name": "Title Fixer",
           "type": "FabricMod",
           "artifact": {
-            "size": 192609,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/veinminer-client-2.4.2.jar",
-            "MD5": "29c018006df59642ccfba148e07ba361"
+            "size": 32559,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/fabricmods/required/titlefixer-1.1+1.21.2.jar",
+            "MD5": "55d398439b1dceabf41dc2deee9ca6f6"
           }
         },
         {
@@ -501,7 +551,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5701,
+            "size": 5738,
             "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v4-1.21.4/files/options.txt",
             "path": "options.txt"
           }
