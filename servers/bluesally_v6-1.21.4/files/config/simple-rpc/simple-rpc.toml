@@ -1,0 +1,187 @@
+# General Config Section
+[general]
+	applicationID = "1377349949351788706"
+	enabled = true
+	debugging = false
+	launcherIntegration = false
+	rpcImageServer = false
+	rpcImageServerUrl = "https://rpcavatar.firstdark.dev"
+	version = 26
+
+# 게임 로딩 중
+[init]
+	enabled = true
+	[[init.presence]]
+		type = "PLAYING"
+		description = "블루샐리를 준비 중입니다..."
+		state = "게임을 불러오는 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리 - Modded Minecraft"
+		smallImageKey = ["mclogo"]
+		smallImageText = "최신 버전: {{game.version}}"
+		buttons = []
+
+# 메인 메뉴
+[main_menu]
+	enabled = true
+	[[main_menu.presence]]
+		type = "PLAYING"
+		description = "{{player.name}}님, 블루샐리 메인 메뉴에서 쉬는 중"
+		state = "메뉴에서 대기 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리 서버에 오신 것을 환영합니다!"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 서버 목록 화면
+[server_list]
+	enabled = true
+	[[server_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}}님이 서버를 찾는 중"
+		state = "마음에 드는 월드를 고르는 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 렐름 목록 화면
+[realms_list]
+	enabled = false
+	[[realms_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}}님이 블루샐리 렐름을 구경 중"
+		state = "렐름 목록 탐색"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 서버 접속 중
+[join_game]
+	enabled = true
+	[[join_game.presence]]
+		type = "PLAYING"
+		description = "{{player.name}}님이 블루샐리 서버에 접속 중"
+		state = "서버에 입장하는 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 싱글플레이
+[single_player]
+	enabled = false
+	[[single_player.presence]]
+		type = "PLAYING"
+		description = "싱글 월드: {{world.name}}"
+		state = "혼자 모험 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리 싱글플레이"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 멀티플레이 (블루샐리 서버)
+[multi_player]
+	enabled = true
+	[[multi_player.presence]]
+		type = "PLAYING"
+		description = "블루샐리에서 {{server.players.count}}명과 같이 플레이 중"
+		state = "서버: {{server.name}}"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 렐름 플레이
+[realms]
+	enabled = false
+	[[realms.presence]]
+		type = "PLAYING"
+		description = "블루샐리 렐름: {{realm.name}}"
+		state = "렐름에서 플레이 중"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 일시정지(ESC) 메뉴
+[paused]
+	enabled = true
+	[[paused.presence]]
+		type = "PLAYING"
+		description = "{{player.name}}님이 일시정지 메뉴에서 휴식 중"
+		state = "게임 일시정지"
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = []
+
+# 비활성/예외 상태
+[generic]
+	[[generic.presence]]
+		type = "PLAYING"
+		description = "블루샐리에서 플레이 중"
+		state = ""
+		largeImageKey = ["blueselly_logo"]
+		largeImageText = "블루샐리"
+		smallImageKey = ["mclogo"]
+		smallImageText = ""
+		buttons = []
+
+# 커스텀 변수 (사용 안 함)
+[custom]
+	enabled = false
+	variables = []
+
+# 디멘션 정보 오버라이드 (필요시 확장 가능)
+[dimension_overrides]
+	enabled = false
+
+	# 오버월드
+	[[dimension_overrides.dimensions]]
+		name = "overworld"
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}}님이 블루샐리 오버월드에서 모험 중"
+			state = "오버월드 탐험"
+			largeImageKey = ["overworld"]
+			largeImageText = "블루샐리 오버월드"
+			smallImageKey = ["{{images.player}}"]
+			smallImageText = "{{player.name}}"
+			buttons = []
+
+	# 네더
+	[[dimension_overrides.dimensions]]
+		name = "the_nether"
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}}님이 블루샐리 네더에서 모험 중"
+			state = "네더 탐험"
+			largeImageKey = ["nether"]
+			largeImageText = "블루샐리 네더"
+			smallImageKey = ["{{images.player}}"]
+			smallImageText = "{{player.name}}"
+			buttons = []
+
+	# 엔드
+	[[dimension_overrides.dimensions]]
+		name = "the_end"
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}}님이 블루샐리 엔드에서 모험 중"
+			state = "엔드 탐험"
+			largeImageKey = ["end"]
+			largeImageText = "블루샐리 엔드"
+			smallImageKey = ["{{images.player}}"]
+			smallImageText = "{{player.name}}"
+			buttons = []
+
