@@ -573,7 +573,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5766,
+            "size": 5787,
             "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/options.txt",
             "path": "options.txt"
           }

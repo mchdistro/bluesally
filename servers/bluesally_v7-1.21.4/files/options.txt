@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/BetterHangulFont.zip"]
+resourcePacks:["vanilla","fabric","file/BetterHangulFont.zip","continuity:default"]
 incompatibleResourcePacks:["craterlib","koreanpatch","simplerpc"]
 lastServer:
 lang:ko_kr
