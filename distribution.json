@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "bluesally_v6-1.21.4",
+      "id": "bluesally_v7-1.21.4",
       "name": "BlueSally",
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/bluesally/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1124737,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/asteorbar-fabric-1.21.4-1.5.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/asteorbar-fabric-1.21.4-1.5.jar",
             "MD5": "eff3a6e48e5b08777056277f334547c0"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4661246,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/c2me-fabric-mc1.21.4-0.3.1.3.0.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/c2me-fabric-mc1.21.4-0.3.1.3.0.jar",
             "MD5": "78551d43592377203ec157417000b45d"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 553941,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/chatanimation-1.0.6.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/chatanimation-1.0.6.jar",
             "MD5": "2f2f27d257421c40ef46fd598917e5aa"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152857,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
             "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1001061,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
             "MD5": "cb5480ac95db653d5376ec1b41797b56"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2012236,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/CraterLib-Fabric-1.21.3-2.1.5.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/CraterLib-Fabric-1.21.3-2.1.5.jar",
             "MD5": "014c1ee6e426f73fab3c4bebdd3f99ac"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80793,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/cwb-fabric-3.0.0+mc1.21.3.jar",
             "MD5": "4278e7e73cb1337e3a198f1c5b921887"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 191899,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
             "MD5": "a018fcc8b46768ef5631e4af2a9b19a5"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1259758,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.7.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.7.jar",
             "MD5": "c494ffe6670005391b7b4149a6fc890a"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71242,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/entityculling-fabric-1.7.4-mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/entityculling-fabric-1.7.4-mc1.21.4.jar",
             "MD5": "814c40da37883f4e5ea565c49507429e"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2147553,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/fabric-api-0.119.2+1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/fabric-api-0.119.2+1.21.4.jar",
             "MD5": "a543174245cd21248bfee7a5a826d718"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7163558,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
             "MD5": "3c186cee540e7f21d8327bed71dd9d6b"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 170592,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/fallingleaves-1.17.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/fallingleaves-1.17.0+1.21.4.jar",
             "MD5": "2170762b11f1b0b4e9cc596eb9aba413"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71326,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/HQSimpleF3-1.0.0.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/HQSimpleF3-1.0.0.jar",
             "MD5": "4680762660aee2533f7501fcd9620d51"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 384309,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
             "MD5": "f3a60a6bee522c264e56107ecca2bb82"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3511796,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.46.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.46.jar",
             "MD5": "693b9f00e61e0f4af855804dd1cea86b"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3277510,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.21.3.jar",
             "MD5": "afac8343404b6eaa6f7ea7665224777f"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 66251,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
             "MD5": "f173a41f6a01310d31bc5d1eb7f55f92"
           }
         },
@@ -311,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 797555,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/lithium-fabric-0.15.3+mc1.21.4.jar",
             "MD5": "7a3a807eed9c4868fbe14cecd8bb082d"
           }
         },
@@ -321,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6885,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/LongerChatHistory-fabric-1.7.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/LongerChatHistory-fabric-1.7.jar",
             "MD5": "52a016e25e9aa53c4f50625fad995ac1"
           }
         },
@@ -331,7 +331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 66412,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/modelfix-1.21.3-1.10-fabric.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/modelfix-1.21.3-1.10-fabric.jar",
             "MD5": "8e44b12c5c24a4303f45e73e40c162f2"
           }
         },
@@ -341,7 +341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1050777,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
             "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
           }
         },
@@ -351,7 +351,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11951869,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.3.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.3.jar",
             "MD5": "fb74c38ba4241dde14a68727fdfa156c"
           }
         },
@@ -361,7 +361,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 61631,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
             "MD5": "66051303e3433bc10796c2c92f57c7da"
           }
         },
@@ -371,7 +371,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 713920,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/SimpleRPC-4.0.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/SimpleRPC-4.0.4.jar",
             "MD5": "ec1d2917e5ed44b7467e422d1b2506d2"
           }
         },
@@ -381,7 +381,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -391,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43552,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/status-effect-bars-1.0.7.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/status-effect-bars-1.0.7.jar",
             "MD5": "a9f4e1d7102e210957bd246106cbbb50"
           }
         },
@@ -401,7 +401,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11004,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/tabnametag-fabric-0.1.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/tabnametag-fabric-0.1.0+mc1.21.2.jar",
             "MD5": "ccd2d08433133ca66ca082dd459a003e"
           }
         },
@@ -411,7 +411,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 32559,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/titlefixer-1.1+1.21.2.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/titlefixer-1.1+1.21.2.jar",
             "MD5": "55d398439b1dceabf41dc2deee9ca6f6"
           }
         },
@@ -421,7 +421,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 268577,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/fabricmods/required/wakes-0.4.2+1.21.4.jar",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/fabricmods/required/wakes-0.4.2+1.21.4.jar",
             "MD5": "eec865ede580b4185f9d6759baaac9dd"
           }
         },
@@ -431,7 +431,7 @@
           "type": "File",
           "artifact": {
             "size": 13135,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/asteorbar.json5",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/asteorbar.json5",
             "path": "config/asteorbar.json5"
           }
         },
@@ -441,7 +441,7 @@
           "type": "File",
           "artifact": {
             "size": 161,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/hqsimplef3-client.json",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/hqsimplef3-client.json",
             "path": "config/hqsimplef3-client.json"
           }
         },
@@ -451,7 +451,7 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -461,7 +461,7 @@
           "type": "File",
           "artifact": {
             "size": 1229,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/plasmovoice/client.toml",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/plasmovoice/client.toml",
             "MD5": "7748984b799e29e30da08efffc6ca1f7",
             "path": "config/plasmovoice/client.toml"
           }
@@ -472,7 +472,7 @@
           "type": "File",
           "artifact": {
             "size": 150,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/simple-rpc/server-entries.toml",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/simple-rpc/server-entries.toml",
             "MD5": "c1d25129313571d7ffa9aa2654338ec2",
             "path": "config/simple-rpc/server-entries.toml"
           }
@@ -483,7 +483,7 @@
           "type": "File",
           "artifact": {
             "size": 5477,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/config/simple-rpc/simple-rpc.toml",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/config/simple-rpc/simple-rpc.toml",
             "MD5": "bcd82890441d8f14f0a56051c597d715",
             "path": "config/simple-rpc/simple-rpc.toml"
           }
@@ -494,7 +494,7 @@
           "type": "File",
           "artifact": {
             "size": 2687,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
         },
@@ -504,7 +504,7 @@
           "type": "File",
           "artifact": {
             "size": 1303,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
         },
@@ -514,7 +514,7 @@
           "type": "File",
           "artifact": {
             "size": 2302,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
@@ -524,7 +524,7 @@
           "type": "File",
           "artifact": {
             "size": 2303,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
         },
@@ -534,7 +534,7 @@
           "type": "File",
           "artifact": {
             "size": 671,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
         },
@@ -544,7 +544,7 @@
           "type": "File",
           "artifact": {
             "size": 971,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
         },
@@ -554,7 +554,7 @@
           "type": "File",
           "artifact": {
             "size": 1215,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
         },
@@ -564,7 +564,7 @@
           "type": "File",
           "artifact": {
             "size": 162,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
         },
@@ -573,8 +573,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5738,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/options.txt",
+            "size": 5766,
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -584,7 +584,7 @@
           "type": "File",
           "artifact": {
             "size": 80065,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/resourcepacks/BetterHangulFont.zip",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/resourcepacks/BetterHangulFont.zip",
             "MD5": "7e53a307e7c7a9f12c7ed189ad416112",
             "path": "resourcepacks/BetterHangulFont.zip"
           }
@@ -595,7 +595,7 @@
           "type": "File",
           "artifact": {
             "size": 13447,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/servers.dat",
             "MD5": "24951f6c6c61da225e27cc1137457e31",
             "path": "servers.dat"
           }
@@ -606,7 +606,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v6-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_v7-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
