@@ -1066,16 +1066,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:yosbr:0.1.2@jar",
-          "name": "YOSBR",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 17373,
-            "url": "https://github.com/mchdistro/bluesally/raw/main/servers/bluesally_cobblemon_v1-1.21.1/fabricmods/required/yosbr-0.1.2.jar",
-            "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
-          }
-        },
-        {
           "id": "appleskin.json5",
           "name": "appleskin.json5",
           "type": "File",
