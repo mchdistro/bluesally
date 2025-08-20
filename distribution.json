@@ -406,6 +406,16 @@
           }
         },
         {
+          "id": "net.starliteheart:cobbleride:0.3.3+1.21.1@jar",
+          "name": "Cobblemon: Ride On!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 388611,
+            "url": "https://raw.githubusercontent.com/mchdistro/bluesally/refs/heads/main/servers/bluesally_cobblemon_v1-1.21.1/fabricmods/required/cobbleride-fabric-0.3.3+1.21.1.jar",
+            "MD5": "ab043def2c336f72ac9285019d4aa516"
+          }
+        },
+        {
           "id": "net.blay09.mods:craftingtweaks:21.1.5@jar",
           "name": "Crafting Tweaks",
           "type": "FabricMod",
