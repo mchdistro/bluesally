@@ -386,16 +386,6 @@
           }
         },
         {
-          "id": "dev.zanckor:cobblemonridingfabric:1.3.7@jar",
-          "name": "Cobblemon Riding Fabric",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 57492,
-            "url": "https://raw.githubusercontent.com/mchdistro/bluesally/refs/heads/main/servers/bluesally_cobblemon_v1-1.21.1/fabricmods/required/cobblemonridingfabric-1.3.7.jar",
-            "MD5": "2066b75758a1d680fee6ea2009989983"
-          }
-        },
-        {
           "id": "com.metacontent:cobblenav:2.2.3@jar",
           "name": "Cobblenav",
           "type": "FabricMod",
